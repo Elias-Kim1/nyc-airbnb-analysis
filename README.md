@@ -26,7 +26,8 @@ This project analyzes Airbnb listings in New York City to explore pricing differ
 
 ## Dashboard
 
-Power BI dashboard screenshots will be added as the project develops.
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/a30a8126-f5ee-40a1-8108-a2f59b80796c" />
+
 
 ## Data
 
