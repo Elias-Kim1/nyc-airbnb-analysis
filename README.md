@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores the New York City Airbnb market using listing-level data to examine pricing patterns, room-type distribution, listing concentration across boroughs, and guest review ratings.
+This project explores the New York City Airbnb market using listing data to examine pricing patterns, room type distribution, listing concentration across boroughs, and guest review ratings.
 
 The goal was to identify market trends and translate raw listing data into an interactive Power BI dashboard that makes the findings easy to explore.
 
@@ -46,9 +46,8 @@ The analysis uses an NYC Airbnb listings dataset containing approximately 30,500
 
 * Missing values and unusual categories may affect individual metrics and visualizations.
 * Average prices can be influenced by unusually expensive listings.
-* The price-distribution chart focuses on listings priced from $0 to $500 to improve readability; listings outside this range are excluded from that visual.
+* The price-distribution chart focuses on listings priced from $0 to $2000 to improve readability; listings outside this range are excluded from that visual.
 * Observed relationships between price and ratings should not be interpreted as evidence of causation.
-* Dataset source, collection date, and licensing details should be documented when verified.
 
 ## How to Access the Report
 
