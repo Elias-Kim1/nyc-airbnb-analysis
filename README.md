@@ -8,8 +8,7 @@ The goal was to identify market trends and translate raw listing data into an in
 
 ## Dashboard Preview
 
-<img width="1920" height="1020" alt="Screenshot 2026-06-04 233723" src="https://github.com/user-attachments/assets/58e4ad0a-fb4b-4742-8fa2-f9dd3b263f5b" />
-
+<img width="1920" height="1032" alt="Screenshot 2026-10-19 195345" src="https://github.com/user-attachments/assets/56c2226c-4fb3-46ee-907f-24ebf28bc4bc" />
 
 ## Tools & Technologies
 
